@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "changelog": [
-    "initial release"
+    "added new features in 1.0.2"
   ],
   "zipUrl": "https://github.com/GeorgePlays1/discord-bot/archive/refs/heads/main.zip"
 }
