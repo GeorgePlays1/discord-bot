@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.4",
   "changelog": [
-    "added new features in 1.0.4"
+    "added new ota version status"
   ],
   "zipUrl": "https://github.com/GeorgePlays1/discord-bot/archive/refs/heads/main.zip"
 }
